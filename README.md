@@ -12,7 +12,7 @@ Uno piensa más como oyente que como ingeniero
 
 https://www.youtube.com/watch?v=rGKJVQ7ssjM   
 
-Como empezar un track?   
+* Como empezar un track?   
 
 1.	Por el ritmo  (cuando hay uno bueno, por lo general sugiere ideas  instantáneamente)  
 2.	Por una progresión      
