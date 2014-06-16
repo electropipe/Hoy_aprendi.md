@@ -2,6 +2,7 @@
 ==============
 
 #### Resumen rápido de lo que aprendo cada día.
+----------------
 
 **Domingo 15 de junio**
 
