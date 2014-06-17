@@ -21,3 +21,8 @@ https://www.youtube.com/watch?v=rGKJVQ7ssjM
 5.	Por un elemento previamente compuesto y guardado en folders (Bajos, Leads, Riffs, Ritmos, etc)      
 
 
+**Lunes 16 de junio**
+
+* Shepard Tone 
+ Un tono de Shepard es un sonido que consiste en una superposición de ondas sinusoidales separadas por octavas Al automatizar  pitch crea la ilusión auditiva de un tono que asciende sin fin.  
+https://www.youtube.com/watch?v=BzNzgsAE4F0   
