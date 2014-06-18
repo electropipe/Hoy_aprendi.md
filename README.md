@@ -26,3 +26,12 @@ https://www.youtube.com/watch?v=rGKJVQ7ssjM
 * Shepard Tone 
  Un tono de Shepard es un sonido que consiste en una superposición de ondas sinusoidales separadas por octavas Al automatizar  pitch crea la ilusión auditiva de un tono que asciende sin fin.  
 https://www.youtube.com/watch?v=BzNzgsAE4F0   
+
+
+**Martes 17 de junio**
+
+Repasando cositas de compresores y haciendo apuntes.  
+http://www.soundonsound.com/sos/dec00/articles/adcompression.htm  
+
+
+Los tubos tienden a añadir cierta distorsión  sonando subjetivamente similar a un Soft knee. Los transientes no abarcados por el compresor, tienden a ser suavizados por las características no lineales de los tubos, por eso se siente más musical que los VCA (Voltage Controlled Amplifiers) más precisos.
