@@ -1,5 +1,4 @@
-##Hoy_aprendí .md
-==============
+#Hoy_aprendí...
 
 #### Resumen rápido de lo que aprendo cada día.
 ----------------
