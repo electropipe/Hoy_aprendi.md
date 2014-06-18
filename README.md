@@ -1,6 +1,6 @@
 #Hoy Aprendí...   
 
-#### Resumen rápido de lo que aprendo cada día.
+#### *Resumen rápido de lo que aprendo cada día.*
 ----------------
 
 ###Domingo 15 de junio
