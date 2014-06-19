@@ -37,3 +37,17 @@ http://www.soundonsound.com/sos/dec00/articles/adcompression.htm
 Los tubos tienden a añadir cierta distorsión  sonando subjetivamente similar a un Soft knee. Los transientes no abarcados por el compresor, tienden a ser suavizados por las características no lineales de los tubos, por eso se siente más musical que los VCA (Voltage Controlled Amplifiers) más precisos.   
 
 A veces los transientes son tan rápidos que los compresores no logran reaccionar. Para eso hay algo llamado Look ahead en donde el compresor escucha el audio unos milisegundos antes y actúa con mejores resultados.  Para que esto suceda es necesario el uso de un Delay al principio del diagrama de flujo.  Esto es más común en plugins y softwares, donde ya el audio ha sido grabado.
+
+###Miercoles 18 de junio  
+
+Lo que siembras, es lo que recoges 
+
+
+
+
+
+
+
+
+
+
