@@ -45,7 +45,7 @@ Lo que siembras, es lo que recoges
 
 ###Lunes 23 de junio  
 
-Mixing with Mid/Side processing
+*Mixing with Mid/Side processing*
 
 If a track has multiple guitar parts, route them through a bus, using Mid/Side processing on the guitar bus. Automate the Mid/Side tool to boost the volume of the side channel during a chorus, or other section of the track. This makes the guitars sound bigger without adjusting panning, and as a result the section sounds more impactful.  
 
@@ -54,7 +54,13 @@ Likewise, a slight volume boost to the side channel on drum overheads can enhanc
 On any particular instrument recorded in stereo, a high frequency EQ boost on just the side channel makes the ‘wider’ elements sound brighter. A Baxandall filter or a high shelf filter work best. This helps to add clarity to a reverb, without muddying up the signal too much.   
   
 
+*Mastering with Mid/Side processing*
 
+If a mix sounds muddy, try reducing low frequencies in the side channel with a low shelf filter. This might be useful, for instance, to surgically EQ the mud out of hard-panned guitars while preserving the vocal and kick drum in the center of the mix.
+
+If the mastering compressor is struggling to reduce dynamic range without a perceived narrowing or squashing of the signal, use a Mid/Side compressor to apply less compression to the side channel than the mid channel. Heavy energy in the center of a mix, where the kick, snare, bass sit, can cause a compressor to kick in, which actually squashes the wider, more ambient and spatial elements in the mix. This technique helps avoid that problem.    
+
+A dry acoustic mix can be warmed up with Mid/Side reverb. Add reverb to the mid channel, but filter out some of the low end on the wet, reverberant signal to avoid muddying the kick drum and bass. On the side channel, add 2-4% more reverb than on the mid channel, with no filtering necessary.   
 
 
 
