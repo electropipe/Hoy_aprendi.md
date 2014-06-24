@@ -43,9 +43,16 @@ A veces los transientes son tan rápidos que los compresores no logran reacciona
 Lo que siembras, es lo que recoges 
 
 
+###Lunes 23 de junio  
 
+Mixing with Mid/Side processing
 
+If a track has multiple guitar parts, route them through a bus, using Mid/Side processing on the guitar bus. Automate the Mid/Side tool to boost the volume of the side channel during a chorus, or other section of the track. This makes the guitars sound bigger without adjusting panning, and as a result the section sounds more impactful.  
 
+Likewise, a slight volume boost to the side channel on drum overheads can enhance the room sound, or a slight boost to the mid channel might enhance the snare drum and rack toms.   
+
+On any particular instrument recorded in stereo, a high frequency EQ boost on just the side channel makes the ‘wider’ elements sound brighter. A Baxandall filter or a high shelf filter work best. This helps to add clarity to a reverb, without muddying up the signal too much.   
+  
 
 
 
