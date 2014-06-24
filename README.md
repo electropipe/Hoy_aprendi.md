@@ -6,7 +6,7 @@
 
 
 
-###Lunes 23 de junio  
+###23 de junio  
 
 *Mixing with Mid/Side processing*
 
@@ -26,12 +26,12 @@ If the mastering compressor is struggling to reduce dynamic range without a perc
 A dry acoustic mix can be warmed up with Mid/Side reverb. Add reverb to the mid channel, but filter out some of the low end on the wet, reverberant signal to avoid muddying the kick drum and bass. On the side channel, add 2-4% more reverb than on the mid channel, with no filtering necessary.   
 
 
-###Miercoles 18 de junio  
+###18 de junio  
 
 Lo que siembras, es lo que recoges 
 
 
-###Martes 17 de junio
+###17 de junio
 
 Repasando cositas de compresores y haciendo apuntes.  
 http://www.soundonsound.com/sos/dec00/articles/adcompression.htm  
@@ -43,7 +43,7 @@ A veces los transientes son tan rápidos que los compresores no logran reacciona
 
 
 
-###Lunes 16 de junio
+###16 de junio
 
 Shepard Tone    
 
@@ -51,7 +51,7 @@ Un tono de Shepard es un sonido que consiste en una superposición de ondas sinu
 https://www.youtube.com/watch?v=BzNzgsAE4F0   
 
 
-###Domingo 15 de junio
+###15 de junio
 
 A veces es más productivo mezclar en 30 min que en tres horas.
 La mente se centra en lo importante, y en lo que falta, sin exageración quirúrgica de perilleo 
