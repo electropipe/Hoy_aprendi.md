@@ -7,7 +7,7 @@
 ###26/Junio 
 
 Aprendiendo un poco de:    
-[BEATZ - Divergences & Contradictions of Electronic Music SUBT EN](http://vimeo.com/97549389)  
+[BEATZ - Divergences & Contradictions of Electronic Music ](http://vimeo.com/97549389)  
 
 ###23/Junio  
 
